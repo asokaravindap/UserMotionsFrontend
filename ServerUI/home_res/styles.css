@@ -1,0 +1,26 @@
+.people{
+    background:url(people.png) no-repeat;
+	background-size: 100%;
+    cursor:pointer;
+    border:none;
+    width:200px;
+    height:200px;
+}
+
+.paths{
+    background:url(lines.png) no-repeat;
+	background-size: 100%;
+    cursor:pointer;
+    border:none;
+    width:200px;
+    height:200px;
+}
+
+.density{
+    background:url(pins.png) no-repeat;
+	background-size: 100%;
+    cursor:pointer;
+    border:none;
+    width:200px;
+    height:200px;
+}
